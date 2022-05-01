@@ -184,7 +184,7 @@ button a {
 }
 
 body {
-  background-image: url(imagenes/grunge_wall.webp);
+  background-image: url(/imagenes/grunge_wall.webp);
 }
 
 .contenedor {
